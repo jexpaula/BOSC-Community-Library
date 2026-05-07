@@ -1,7 +1,98 @@
 [
   {
     "id": 1,
-    "name": "OSI",
-    "url": "https://opensource.org"
+    "name": "Open Source Initiative (OSI)",
+    "url": "https://opensource.org",
+    "category": "Governance",
+    "description": "The Open Source Initiative is a non-profit that promotes open-source software and maintains the Open Source Definition.",
+    "language": "en"
+  },
+  {
+    "id": 2,
+    "name": "Apache Software Foundation",
+    "url": "https://apache.org",
+    "category": "Community",
+    "description": "Home of Apache projects including the Apache HTTP Server, Kubernetes, and many other open-source collaborations.",
+    "language": "en"
+  },
+  {
+    "id": 3,
+    "name": "Free Software Foundation",
+    "url": "https://fsf.org",
+    "category": "Advocacy",
+    "description": "A nonprofit with a worldwide mission to promote computer user freedom and to defend the rights of all free software users.",
+    "language": "en"
+  },
+  {
+    "id": 4,
+    "name": "Mozilla Developer Network (MDN)",
+    "url": "https://developer.mozilla.org",
+    "category": "Documentation",
+    "description": "Comprehensive documentation for web technologies including HTML, CSS, JavaScript, and web APIs.",
+    "language": "multilingual"
+  },
+  {
+    "id": 5,
+    "name": "GitHub Docs",
+    "url": "https://docs.github.com",
+    "category": "Documentation",
+    "description": "Official documentation for GitHub, covering Git, collaboration, CI/CD, and platform features.",
+    "language": "multilingual"
+  },
+  {
+    "id": 6,
+    "name": "Wikibooks Open Source Collection",
+    "url": "https://en.wikibooks.org/wiki/Open_Source",
+    "category": "Learning",
+    "description": "A collection of open textbooks and manuals on open-source software development and philosophy.",
+    "language": "multilingual"
+  },
+  {
+    "id": 7,
+    "name": "Creative Commons",
+    "url": "https://creativecommons.org",
+    "category": "Licensing",
+    "description": "Provides free, standardized licenses for creators to share their work while retaining certain rights.",
+    "language": "multilingual"
+  },
+  {
+    "id": 8,
+    "name": "Digital Public Goods Alliance",
+    "url": "https://digitalpublicgoods.net",
+    "category": "Governance",
+    "description": "A UN-endorsed alliance promoting digital public goods that help achieve the Sustainable Development Goals.",
+    "language": "en"
+  },
+  {
+    "id": 9,
+    "name": "Open Knowledge Foundation",
+    "url": "https://okfn.org",
+    "category": "Advocacy",
+    "description": "Promotes open knowledge including open data, open content, and open-source software for societal benefit.",
+    "language": "multilingual"
+  },
+  {
+    "id": 10,
+    "name": "CodeRefinery",
+    "url": "https://coderefinery.org",
+    "category": "Training",
+    "description": "A project teaching best practices in research software development, version control, and reproducibility.",
+    "language": "en"
+  },
+  {
+    "id": 11,
+    "name": "Bugema University Open Source Initiative",
+    "url": "https://bugemauniv.ac.ug/open-source",
+    "category": "Education",
+    "description": "Bugema University's official open-source program office supporting student projects and community engagement.",
+    "language": "en"
+  },
+  {
+    "id": 12,
+    "name": "The Linux Foundation",
+    "url": "https://linuxfoundation.org",
+    "category": "Community",
+    "description": "Supports the creation of sustainable open-source ecosystems through training, certification, and project hosting.",
+    "language": "en"
   }
 ]
