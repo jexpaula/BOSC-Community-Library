@@ -1,2 +1,2 @@
 # Resources
-- [Old Resource](http://this-is-broken.com)
+- [Bugema University](https://bugemauniv.ac.ug)
